@@ -1,0 +1,10 @@
+{
+  "name": "ppob-test-api",
+  "version": "1.0.0",
+  "description": "Simple PPOB test API for Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
